@@ -5,7 +5,7 @@ This repository contains a custom **GLSL shader filter** for **OBS Studio** that
 ---
 
 ## Features
-- Real-time noise reduction with inter-frame blending
+- Real-time temporal noise reduction.
 - Adjustable parameters (blur radius, edge-preserving threshold, etc.)
 - Easy to integrate into **OBS Studio** via the *User-defined Shader* filter
 - Low-latency rendering
@@ -36,7 +36,9 @@ Or simply download the `fast_denoise.shader` file.
 ---
 
 ## Showcase
-![Original](original.png)
-![Denoised](denoised.png)
+<p float="left">
+  <img src="original.png" alt="Original" width="49%" />
+  <img src="denoised.png" alt="Denoised" width="49%" />
+</p>
 
 
