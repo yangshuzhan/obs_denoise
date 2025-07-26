@@ -35,6 +35,8 @@ Or simply download the `fast_denoise.shader` file.
 
 ---
 
-## Demo
-*(Add before/after screenshots or GIFs here.)*
+## Shocase
+![Original](original.png)
+![Denoised](denoised.png)
+
 
